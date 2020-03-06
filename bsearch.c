@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main()
+int main()//hey
 {
 	int arr[10],min,max,key,i,flag=0;
 	
