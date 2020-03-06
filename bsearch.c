@@ -46,5 +46,5 @@ while(min<=max && flag==0)
 	}
 	printf("position is %d",mid);
 
-return 0;
+return 0;//success fultermination
 }
